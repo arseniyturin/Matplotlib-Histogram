@@ -1,2 +1,3 @@
 # Matplotlib Histogram Tutorial
-This is an example of how to customize your histogram
+
+<img src='img/pretty_hist.png'>
